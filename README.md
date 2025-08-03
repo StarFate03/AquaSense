@@ -5,19 +5,19 @@ A comprehensive IoT solution for monitoring aquaculture systems using Flutter mo
 ## 📱 Mobile App Screenshots
 
 ### Dashboard
-![Dashboard](Fishly/assets/images/Dashboard.webp)
+![Dashboard](Fishly/assets/images/Dashboard.png)
 
 ### Login Page
-![Login Page](Fishly/assets/images/LoginPage.webp)
+![Login Page](Fishly/assets/images/LoginPage.png)
 
 ### Statistics Page
-![Statistics](Fishly/assets/images/StatPage.webp)
+![Statistics](Fishly/assets/images/StatPage.png)
 
 ### Profile Page
-![Profile](Fishly/assets/images/Profile.webp)
+![Profile](Fishly/assets/images/Profile.png)
 
 ### Notifications
-![Notifications](Fishly/assets/images/Notification.webp)
+![Notifications](Fishly/assets/images/Notification.png)
 
 ## 🔧 Features
 
@@ -134,5 +134,6 @@ The system automatically monitors sensor values and sends notifications when:
 - ✅ **Documentation**: Being updated
 
 ---
+
 
 **Built with ❤️ for sustainable aquaculture monitoring**
