@@ -1,6 +1,22 @@
 # AquaSense - IoT Aquaculture Monitoring System
 
 A comprehensive IoT solution for monitoring aquaculture systems using Flutter mobile app, Raspberry Pi sensors, and Firebase real-time database.
+## Mobile App Screenshots
+
+### Dashboard
+![Dashboard](assets/images/Dashboard.webp)
+
+### Login Page
+![Login Page](assets/images/LoginPage.webp)
+
+### Statistics Page
+![Statistics](assets/images/StatPage.webp)
+
+### Profile Page
+![Profile](assets/images/Profile.webp)
+
+### Notifications
+![Notifications](assets/images/Notification.webp)
 
 ## Features
 
