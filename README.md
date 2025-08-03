@@ -5,19 +5,19 @@ A comprehensive IoT solution for monitoring aquaculture systems using Flutter mo
 ## 📱 Mobile App Screenshots
 
 ### Dashboard
-![Dashboard](assets/images/Dashboard.webp)
+![Dashboard](Fishly/assets/images/Dashboard.webp)
 
 ### Login Page
-![Login Page](assets/images/LoginPage.webp)
+![Login Page](Fishly/assets/images/LoginPage.webp)
 
 ### Statistics Page
-![Statistics](assets/images/StatPage.webp)
+![Statistics](Fishly/assets/images/StatPage.webp)
 
 ### Profile Page
-![Profile](assets/images/Profile.webp)
+![Profile](Fishly/assets/images/Profile.webp)
 
 ### Notifications
-![Notifications](assets/images/Notification.webp)
+![Notifications](Fishly/assets/images/Notification.webp)
 
 ## 🔧 Features
 
@@ -69,7 +69,9 @@ flutter run
 # Install required Python packages
 pip install pyrebase4 adafruit-circuitpython-ads1x15
 
-# Navigate to your Raspberry Pi project directory
+# Navigate to AquaSense directory
+cd AquaSense
+
 # Update Firebase config in your Python sensor script
 # Run the sensor reading script
 python your_sensor_script.py
