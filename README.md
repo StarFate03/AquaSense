@@ -19,25 +19,6 @@ A comprehensive IoT solution for monitoring aquaculture systems using Flutter mo
 ### Notifications
 ![Notifications](assets/images/Notification.webp)
 
-## 🏗️ Project Structure
-
-```
-Fishly/
-├── lib/                    # Flutter mobile app (Fishly)
-│   ├── main.dart
-│   ├── monitor_page.dart
-│   ├── stat_page.dart
-│   ├── profile_page.dart
-│   ├── notification_page.dart
-│   └── login_page.dart
-├── AquaSense/             # Raspberry Pi Python code
-│   └── [Python sensor scripts]
-├── assets/
-│   └── images/            # App screenshots and logos
-├── functions/             # Firebase Functions
-└── firebase.json         # Firebase configuration
-```
-
 ## 🔧 Features
 
 ### Mobile App (Flutter)
@@ -65,7 +46,7 @@ Fishly/
 - **Software**: Flutter SDK, Firebase account, Python 3.x
 - **Services**: Firebase project with Realtime Database enabled
 
-### Installation
+### Software Installation
 
 #### 1. Flutter App Setup
 ```bash
@@ -88,9 +69,7 @@ flutter run
 # Install required Python packages
 pip install pyrebase4 adafruit-circuitpython-ads1x15
 
-# Navigate to AquaSense directory
-cd AquaSense
-
+# Navigate to your Raspberry Pi project directory
 # Update Firebase config in your Python sensor script
 # Run the sensor reading script
 python your_sensor_script.py
@@ -149,26 +128,9 @@ The system automatically monitors sensor values and sends notifications when:
 - ✅ **Mobile App**: Fully functional with real-time monitoring
 - ✅ **Firebase Integration**: Working with live sensor data
 - ✅ **UI/UX**: Modern, responsive design with dark/light themes
-- 🔄 **Raspberry Pi Code**: In development (AquaSense directory)
-- 🔄 **Documentation**: Being updated
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- ✅ **Raspberry Pi Code**: Working in separate repository
+- ✅ **Documentation**: Being updated
 
 ---
 
 **Built with ❤️ for sustainable aquaculture monitoring**
-
-## 📞 Contact
-
-- **GitHub**: [@StarFate03](https://github.com/StarFate03)
-- **Project**: [AquaSense Repository](https://github.com/StarFate03/AquaSense) 
