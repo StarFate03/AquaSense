@@ -1,4 +1,4 @@
-# 🐟 Fishly - IoT Aquaculture Monitoring System
+# 🐟 AquaSense - IoT Aquaculture Monitoring System
 
 A comprehensive IoT solution for monitoring aquaculture systems using Flutter mobile app, Raspberry Pi sensors, and Firebase real-time database.
 
@@ -128,7 +128,7 @@ The system automatically monitors sensor values and sends notifications when:
 - ✅ **Mobile App**: Fully functional with real-time monitoring
 - ✅ **Firebase Integration**: Working with live sensor data
 - ✅ **UI/UX**: Modern, responsive design with dark/light themes
-- ✅ **Raspberry Pi Code**: Working in separate repository
+- ✅ **Raspberry Pi Code**: Working in AquaSense directory
 - ✅ **Documentation**: Being updated
 
 ---
